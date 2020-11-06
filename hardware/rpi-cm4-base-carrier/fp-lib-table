@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "CM4IO")(type "KiCad")(uri "C:/Users/sgmustadio/Documents/GitHub/rpi-cm4-carrier-template/hardware/libraries/CM4IO.pretty")(options "")(descr ""))
+  (lib (name "USB4105-GF-A")(type "KiCad")(uri "C:/Users/sgmustadio/Documents/GitHub/rpi-cm4-base-carrier/hardware/libraries/USB4105-GF-A.pretty")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "C:/Users/sgmustadio/Documents/GitHub/rpi-cm4-base-carrier/hardware/libraries/footprints.pretty")(options "")(descr ""))
+)

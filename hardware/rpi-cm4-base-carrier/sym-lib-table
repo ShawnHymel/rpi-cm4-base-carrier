@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "CM4IO")(type "KiCad")(uri "C:/Users/sgmustadio/Documents/GitHub/rpi-cm4-carrier-template/hardware/libraries/CM4IO.kicad_sym")(options "")(descr ""))
+  (lib (name "USB4105-GF-A")(type "Legacy")(uri "C:/Users/sgmustadio/Documents/GitHub/rpi-cm4-base-carrier/hardware/libraries/USB4105-GF-A.lib")(options "")(descr ""))
+  (lib (name "2020-11-06_00-20-18")(type "Legacy")(uri "C:/Users/sgmustadio/Documents/GitHub/rpi-cm4-base-carrier/hardware/libraries/2020-11-06_00-20-18.lib")(options "")(descr ""))
+)
