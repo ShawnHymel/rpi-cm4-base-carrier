@@ -1503,6 +1503,10 @@
     (stroke (width 0) (type solid) (color 0 0 0 0))
   )
 
+  (text "USB (client and comms only)" (at 198.12 36.83 180)
+    (effects (font (size 1.27 1.27)) (justify right bottom))
+  )
+
   (label "USB_OTG_ID" (at 119.38 45.72 180)
     (effects (font (size 1.27 1.27)) (justify right bottom))
   )
