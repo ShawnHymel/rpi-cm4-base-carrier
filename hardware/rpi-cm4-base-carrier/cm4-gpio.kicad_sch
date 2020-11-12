@@ -1525,13 +1525,13 @@
   (junction (at 227.33 139.7) (diameter 1.016) (color 0 0 0 0))
   (junction (at 240.03 78.74) (diameter 1.016) (color 0 0 0 0))
 
-  (no_connect (at 176.53 88.9))
   (no_connect (at 217.17 86.36))
-  (no_connect (at 217.17 91.44))
-  (no_connect (at 176.53 91.44))
-  (no_connect (at 245.11 144.78))
-  (no_connect (at 217.17 88.9))
   (no_connect (at 176.53 86.36))
+  (no_connect (at 217.17 91.44))
+  (no_connect (at 176.53 88.9))
+  (no_connect (at 217.17 88.9))
+  (no_connect (at 245.11 144.78))
+  (no_connect (at 176.53 91.44))
 
   (wire (pts (xy 25.4 68.58) (xy 43.18 68.58))
     (stroke (width 0) (type solid) (color 0 0 0 0))

@@ -304,6 +304,7 @@
       "pin_not_connected": "error",
       "pin_not_driven": "error",
       "pin_to_pin": "warning",
+      "power_pin_not_driven": "error",
       "similar_labels": "warning",
       "unresolved_variable": "error",
       "wire_dangling": "error"
@@ -321,17 +322,38 @@
     "classes": [
       {
         "bus_width": 6.0,
-        "clearance": 0.1524,
-        "diff_pair_gap": 0.25,
+        "clearance": 0.2,
+        "diff_pair_gap": 0.1524,
         "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.2,
+        "diff_pair_width": 0.1524,
         "line_style": 0,
         "microvia_diameter": 0.508,
         "microvia_drill": 0.254,
         "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.1524,
+        "track_width": 0.2,
+        "via_diameter": 0.508,
+        "via_drill": 0.254,
+        "wire_width": 6.0
+      },
+      {
+        "bus_width": 6.0,
+        "clearance": 0.2,
+        "diff_pair_gap": 0.1524,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.75,
+        "line_style": 0,
+        "microvia_diameter": 0.508,
+        "microvia_drill": 0.254,
+        "name": "USB Data",
+        "nets": [
+          "/CM4 High Speed/USB2_N",
+          "/CM4 High Speed/USB2_P"
+        ],
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.2,
         "via_diameter": 0.508,
         "via_drill": 0.254,
         "wire_width": 6.0
@@ -365,6 +387,7 @@
       "intersheets_ref_short": false,
       "intersheets_ref_show": false,
       "intersheets_ref_suffix": "",
+      "junction_size_choice": 3,
       "pin_symbol_size": 25.0,
       "text_offset_ratio": 0.3
     },
@@ -383,7 +406,7 @@
   },
   "sheets": [
     [
-      "be9a420e-42a9-4d22-8d81-03af5d2e5bdf",
+      "0a570d1d-4c35-4a91-abff-50023bc2eaeb",
       ""
     ],
     [
