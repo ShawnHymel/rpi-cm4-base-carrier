@@ -1,6 +1,6 @@
 # Raspberry Pi Compute Module 4 (CM4) Base Carrier
 
-![Rendered example of RPi CM4 Carrier Template PCB](https://raw.githubusercontent.com/ShawnHymel/rpi-cm4-base-carrier/main/images/rpi-cm4-base-carrier-rendered.png)
+![Rendered example of RPi CM4 Carrier Template PCB](https://raw.githubusercontent.com/ShawnHymel/rpi-cm4-base-carrier/main/images/rpi-cm4-base-carrier-rendered.jpg)
 
 Simple carrier board for the Raspberry Pi Compute Module 4. It provides power to the module through the USB-C connector (power only, no data), USB client mode (host mode is not supported), Qwiic/Stemma connector for I2C lines, SPI, UART, and power/activity LEDs.
 
